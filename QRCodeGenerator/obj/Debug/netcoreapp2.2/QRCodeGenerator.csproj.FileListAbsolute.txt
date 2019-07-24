@@ -1,0 +1,60 @@
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\bin\Debug\netcoreapp2.2\QRCodeGenerator.deps.json
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\bin\Debug\netcoreapp2.2\QRCodeGenerator.runtimeconfig.json
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\bin\Debug\netcoreapp2.2\QRCodeGenerator.runtimeconfig.dev.json
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\bin\Debug\netcoreapp2.2\QRCodeGenerator.dll
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.csprojAssemblyReference.cache
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.RazorAssemblyInfo.cache
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.RazorAssemblyInfo.cs
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.AssemblyInfoInputs.cache
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.AssemblyInfo.cs
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.TagHelpers.input.cache
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.TagHelpers.output.cache
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.RazorCoreGenerate.cache
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.RazorTargetAssemblyInfo.cache
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.RazorTargetAssemblyInfo.cs
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\bin\Debug\netcoreapp2.2\QRCodeGenerator.pdb
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\bin\Debug\netcoreapp2.2\QRCodeGenerator.Views.dll
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\bin\Debug\netcoreapp2.2\QRCodeGenerator.Views.pdb
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.Views.pdb
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.dll
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.pdb
+C:\Users\shakil\Desktop\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.csproj.CopyComplete
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\bin\Debug\netcoreapp2.2\QRCodeGenerator.deps.json
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\bin\Debug\netcoreapp2.2\QRCodeGenerator.runtimeconfig.json
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\bin\Debug\netcoreapp2.2\QRCodeGenerator.runtimeconfig.dev.json
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\bin\Debug\netcoreapp2.2\QRCodeGenerator.dll
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\bin\Debug\netcoreapp2.2\QRCodeGenerator.pdb
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\bin\Debug\netcoreapp2.2\QRCodeGenerator.Views.dll
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\bin\Debug\netcoreapp2.2\QRCodeGenerator.Views.pdb
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.csprojAssemblyReference.cache
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.csproj.CoreCompileInputs.cache
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.RazorAssemblyInfo.cache
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.RazorAssemblyInfo.cs
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.AssemblyInfoInputs.cache
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.AssemblyInfo.cs
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.TagHelpers.input.cache
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.TagHelpers.output.cache
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.RazorCoreGenerate.cache
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.RazorTargetAssemblyInfo.cache
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.RazorTargetAssemblyInfo.cs
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.Views.pdb
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.dll
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.pdb
+E:\03. TEST PROJECT\QRCodeGenerator\QRCodeGenerator\obj\Debug\netcoreapp2.2\QRCodeGenerator.csproj.CopyComplete
